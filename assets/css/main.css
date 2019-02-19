@@ -175,7 +175,7 @@ html {
 body {
   background-color: #183026;
   background-image: url("images/overlay.png"),
-    url("/Users/FW_Digital_Media/Documents/git/portfolio-website/assets/css/images/27500272_1597241867024439_5784405805734766427_o.jpg"); /* ../../images/bg.jpg*/
+    url("images/27500272_1597241867024439_5784405805734766427_o.jpg"); /* ../../images/bg.jpg*/
   background-repeat: repeat, no-repeat;
   background-size: auto, cover;
   background-position: top left, center 0;
@@ -2447,7 +2447,7 @@ body.is-preload #header footer {
     background-repeat: repeat, no-repeat;
     background-size: auto, 100% auto;
     background-position: top left, top center;
-    background-attachment: scroll, scroll;
+    /* background-attachment: scroll, scroll; */
     font-size: 14pt;
   }
 
