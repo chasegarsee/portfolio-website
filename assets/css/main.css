@@ -174,9 +174,8 @@ html {
 
 body {
   background-color: #183026;
-  background-image: url("images/overlay.png"),
-    url("images/27500272_1597241867024439_5784405805734766427_o.jpg"); /* ../../images/bg.jpg*/
-  background-repeat: repeat, no-repeat;
+  background-image: url(""), url("images/clouds-fog-forest-9754.jpg"); /* ../../images/bg.jpg*/
+  background-repeat: no-repeat, no-repeat;
   background-size: auto, cover;
   background-position: top left, center 0;
   background-attachment: fixed, fixed;
@@ -2443,8 +2442,7 @@ body.is-preload #header footer {
 
   body {
     background-color: #203936;
-    background-image: url("images/overlay.png"),
-      url("images/27500272_1597241867024439_5784405805734766427_o.jpg"); /* ../../images/bg-alt.jpg */
+    background-image: /* url("images/overlay.png"), */ url("images/clouds-fog-forest-9754.jpg"); /* ../../images/bg-alt.jpg */
     background-repeat: repeat, no-repeat;
     background-size: auto, 100% auto;
     background-position: top left, top center;
